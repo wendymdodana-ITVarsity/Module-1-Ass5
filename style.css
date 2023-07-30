@@ -1,0 +1,49 @@
+.gallery img{
+    width:100%
+}
+h1{
+    color: #2296C7;
+    font-size: 4Opx;
+    font-family: sans-serif;
+    text-align-last: left;
+}
+h2{
+    color: green;
+    font-size: 40px
+    font-family: helvetica,sans-serif;
+    text-align: left;
+}
+h3{
+    color: darkorange;
+    font-size: 40px
+    font-family:sans-serif;
+    text-align: left;
+}
+h4{
+    color: darkgoldenrod;
+    font-size: 40px
+    font-family:sans-serif;
+    text-align: left;
+}
+h5{
+    color: blueviolet;
+    font-size: 40px
+    font-family: sans-serif;
+    text-align: left;
+}
+h6{
+    color: darkblue;
+    font-size: 40px
+    font-family: sans-serif;
+    text-align: left;
+}
+a{
+    font-family: helvetica,sans-serif;
+    text-decoration: underline;
+    background-color: chartreuse;
+    padding: 5px;
+}
+a:hover{
+    background-color: chartreuse;
+    color:purple;
+}
